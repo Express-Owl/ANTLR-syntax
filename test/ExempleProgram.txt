@@ -1,0 +1,5 @@
+array a = (1,4);
+int b = min a;
+array c;
+c = sort a;
+array d = sort (4,3);
